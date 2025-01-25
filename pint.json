@@ -1,0 +1,32 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "align_multiline_comment": true,
+        "array_indentation": true,
+        "array_syntax": true,
+        "blank_line_after_namespace": true,
+        "blank_line_after_opening_tag": true,
+        "concat_space": {
+            "spacing": "one"
+        },
+        "declare_parentheses": true,
+        "declare_strict_types": true,
+        "explicit_string_variable": true,
+        "global_namespace_import": {
+            "import_classes": true,
+            "import_constants": true,
+            "import_functions": true
+        },
+        "is_null": true,
+        "new_with_braces": true,
+        "no_empty_comment": true,
+        "not_operator_with_space": true,
+        "trim_array_spaces": true,
+        "use_arrow_functions": true,
+        "void_return": true,
+        "no_useless_else": true,
+        "ordered_imports": {
+            "sort_algorithm": "alpha"
+        }
+    }
+}
